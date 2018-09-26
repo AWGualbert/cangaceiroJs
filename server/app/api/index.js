@@ -56,5 +56,4 @@ api.cadastraNegociacao = function(req, res) {
 };
 
 
-
 module.exports = api;
